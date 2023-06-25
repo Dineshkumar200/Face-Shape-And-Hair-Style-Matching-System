@@ -2,7 +2,7 @@
 # <p align = "center"> Face-Shape-And-Hair-Style-Matching-System </p>
 
 
-## <br><br><br><br>PROBLEM STATEMENT
+## <br>PROBLEM STATEMENT
 The problem at hand is to develop a hairstyle recommendation system based on face shape detection. The objective is to create an automated solution that can analyze the user's face shape and suggest suitable hairstyles that complement their unique features.
 
 The primary challenge is to accurately detect and classify the user's face shape using computer vision techniques. Face shape detection involves analyzing facial landmarks, such as the position of the eyes, nose, and mouth, and determining the overall structure of the face. Once the face shape is identified, the system needs to provide personalized hairstyle recommendations that enhance the user's natural features, taking into account factors such as hair texture, length, and thickness.
